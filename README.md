@@ -5,7 +5,7 @@
 **🧑 About Me**
 
 - 💪 I am a Self Taught Developer.
-- 🎮 I am learning game development as a hobby.
+- 📖 I am currently acquiring knowledge and experience in different fields.
 - 💬 Ask me about anything [here](https://discord.gg/dyqmYDgfsr).
 ---
 **🛠️ Languages And Tools**
